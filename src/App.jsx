@@ -100,12 +100,12 @@ function App() {
               </>
             ) : (
               <>
-                Counting down to <span className="highlight">[Name]'s</span>{" "}
+                Counting down to <span className="highlight">Ansh's</span>{" "}
                 special day 🎂
               </>
             )}
           </h1>
-          <p>My heart wishes the best for you💗</p>
+          <p>Are you excited??💗</p>
         </section>
 
         <Countdown
